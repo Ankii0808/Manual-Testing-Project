@@ -1,6 +1,1 @@
-/TestCases
-  ├── LoginTestCases.xlsx
-  ├── SignupTestCases.xlsx
-  ├── ProductSearchTestCases.xlsx
-  └── CartCheckoutTestCases.xlsx
-/README.md
+This project contains manual test cases for the ShopperStack application. It is created to check if different features of the app are working correctly by following step-by-step test scenarios. The test cases are written in Excel files, and anyone can use them to test the app manually.
